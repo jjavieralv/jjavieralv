@@ -23,5 +23,5 @@
 
 [website]: https://www.eleslabitperdido.com
 [telegram]: https://t.me/sirniorJJ
-[ask_mail]: suport@elbitperdido.com
+[ask_mail]: mailto:suport@elbitperdido.com
 
