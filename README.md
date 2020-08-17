@@ -1,4 +1,4 @@
-### Hi there, I'm Jota - aka [jjavieralv]
+### Hi there, I'm Jota - aka jjavieralv
 
 - 🔭 I’m currently working on software -> kubernetes project
 - 💥 I'm currently working on hardware -> board to teach electronics
