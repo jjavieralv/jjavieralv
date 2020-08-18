@@ -30,8 +30,3 @@
 [twitter]: https://twitter.com/eleslabitperdi1
 
 ---
-
-###:zap: Recent GitHub Activity
-
-<!--START_SECTION:activity-->
-
