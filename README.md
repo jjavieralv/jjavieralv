@@ -28,3 +28,9 @@
 [ask_mail]: mailto:suport@elbitperdido.com
 [instagram]: https://www.instagram.com/eleslabitperdido/
 [twitter]: https://twitter.com/eleslabitperdi1
+
+---
+
+###:zap: Recent GitHub Activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
