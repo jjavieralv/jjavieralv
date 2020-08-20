@@ -1,11 +1,14 @@
-### Hi there, I'm Jota - aka jjavieralv
+
+
+
+### Hi there, I'm Jota - aka jjavieralv ![gif](https://github.com/jjavieralv/jjavieralv/blob/master/servers.gif?raw=true)
 
 - 🔭 I’m currently working on software -> kubernetes project
 - 💥 I'm currently working on hardware -> board to teach electronics
 - 🌱 I’m currently learning all can I read
 - 🤔 I’m looking for help with making popcorn in microwave
 - ⚡ Fun fact: I'm painting ideas on a wall
-- 🎪 I started a blog [eleslabitperdido.com][website]
+- 🎪 I started a blog [eleslabitperdido.com][website] 
 <br />
 
 ----
