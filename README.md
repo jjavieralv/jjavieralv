@@ -28,7 +28,7 @@
 
 [website]: https://www.eleslabitperdido.com
 [telegram]: https://t.me/sirniorJJ
-[ask_mail]: mailto:soporte@elbitperdido.com
+[ask_mail]: mailto:soporte@eleslabitperdido.com
 [instagram]: https://www.instagram.com/eleslabitperdido/
 [twitter]: https://twitter.com/eleslabitperdi1
 
