@@ -1,7 +1,7 @@
 
 
 
-### Hi there, I'm Jota - aka jjavieralv ![gif](https://github.com/jjavieralv/jjavieralv/blob/master/servers.gif?raw=true)
+### Hi there, I'm Jota - aka jjavieralv ![gif](servers.gif)
 
 - 🔭 I’m currently working on software -> kubernetes project
 - 💥 I'm currently working on hardware -> board to teach electronics
@@ -9,7 +9,6 @@
 - 🤔 I’m looking for help with making popcorn in microwave
 - ⚡ Fun fact: I'm painting ideas on a wall
 - 🎪 I started a blog [eleslabitperdido.com][website] 
-<br />
 
 ----
 
