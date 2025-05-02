@@ -15,16 +15,22 @@
 
 ### Connect with me:
 
-[<img align="left" alt="eleslabitperdido.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Telegram | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
-[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="ask_mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][ask_mail]
-<br/>
+<p align="center">
+  <a href="https://www.eleslabitperdido.com"><img src="https://img.shields.io/badge/webpage-blue?style=flat&logoColor=white"></a>
+  <a href="https://x.com/eleslabitperdi1"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=flat&logo=twitter&logoColor=white"></a>
+  <a href="https://www.instagram.com/eleslabitperdido/"><img src="https://img.shields.io/badge/instagram%20-%23E4405F.svg?&style=flat&logo=Instagram&logoColor=white"></a>
+  <a href="https://t.me/tjjavieralv"><img src="https://img.shields.io/badge/telegram-blue?style=flat&logoColor=white"></a>
+  <a href="https://es.linkedin.com/in/jose-javier-alvarez-rodriguez"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"></a>
+</p>
+
 
 ---
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjavieralv&layout=compact)](https://github.com/jjavieralv/github-readme-stats)
+<p align="center">
+  <a href="https://github.com/sergiecode">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jjavieralv&show_icons=true&theme=algolia&include_all_commits=true&count_private=true">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jjavieralv&layout=compact&langs_count=8&theme=algolia">
+  </a>
+</p>
 
 [website]: https://www.eleslabitperdido.com
 [telegram]: https://t.me/sirniorJJ
